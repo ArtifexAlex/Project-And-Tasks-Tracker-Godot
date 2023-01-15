@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(10.6369,0,0,10.6369,-956.962,-127.285)">
+        <g id="Trash">
+            <path d="M106,15C106,13.895 105.105,13 104,13L100,13C98.895,13 98,13.895 98,15L95,15C94.448,15 94,15.448 94,16L110,16C110,15.448 109.552,15 109,15L106,15ZM94.947,16.921L109.018,16.921L108.316,33.74C108.316,33.74 108.051,35 107.052,35L96.947,35C95.949,35 95.684,33.74 95.684,33.74L94.947,16.921ZM105.9,19L104.9,19L104.4,33.438L105.4,33.438L105.9,19ZM99.5,33.438L99,19L98,19L98.5,33.438L99.5,33.438ZM101.5,19L101.5,33.438L102.5,33.438L102.5,19L101.5,19Z" style="fill:white;"/>
+        </g>
+    </g>
+</svg>
